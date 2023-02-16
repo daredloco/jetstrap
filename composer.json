@@ -15,8 +15,7 @@
     }
   ],
   "require": {
-    "php": "^7.3|^8.0",
-    "illuminate/support": "^8.0|^9.0"
+    "php": "^7.3|^8.0|^8.1"
   },
   "require-dev": {
     "inertiajs/inertia-laravel": "^0.3",
